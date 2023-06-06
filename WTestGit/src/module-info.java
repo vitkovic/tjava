@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author nik
- *
- */
-module WTestGit {
-}
